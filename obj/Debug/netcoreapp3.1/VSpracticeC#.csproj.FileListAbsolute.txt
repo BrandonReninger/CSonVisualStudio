@@ -1,0 +1,13 @@
+C:\source\MyProjects\VSpracticeC#\bin\Debug\netcoreapp3.1\VSpracticeC#.exe
+C:\source\MyProjects\VSpracticeC#\bin\Debug\netcoreapp3.1\VSpracticeC#.deps.json
+C:\source\MyProjects\VSpracticeC#\bin\Debug\netcoreapp3.1\VSpracticeC#.runtimeconfig.json
+C:\source\MyProjects\VSpracticeC#\bin\Debug\netcoreapp3.1\VSpracticeC#.runtimeconfig.dev.json
+C:\source\MyProjects\VSpracticeC#\bin\Debug\netcoreapp3.1\VSpracticeC#.dll
+C:\source\MyProjects\VSpracticeC#\bin\Debug\netcoreapp3.1\VSpracticeC#.pdb
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.csprojAssemblyReference.cache
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.AssemblyInfoInputs.cache
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.AssemblyInfo.cs
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.csproj.CoreCompileInputs.cache
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.dll
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.pdb
+C:\source\MyProjects\VSpracticeC#\obj\Debug\netcoreapp3.1\VSpracticeC#.genruntimeconfig.cache
